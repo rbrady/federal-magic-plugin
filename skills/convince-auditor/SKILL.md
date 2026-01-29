@@ -1,6 +1,7 @@
 ---
-convince-auditor
+name: convince-auditor
 description: Convince a FedRAMP auditor we have passed the audit
+user-invocable: true
 ---
 
 Output this message:

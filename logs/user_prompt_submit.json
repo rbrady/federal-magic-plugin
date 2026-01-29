@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "I'm trying to use a plugin I have installed from my marketplace.  I can see it in my installed plugins, and though it has a single skill, it's not something I'm able to call with \"/convince-auditor\" or \"federal-magic:convince-auditor\""
+  }
+]

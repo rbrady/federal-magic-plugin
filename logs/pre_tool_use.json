@@ -1,0 +1,53 @@
+[
+  {
+    "session_id": "8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Glob",
+    "tool_input": {
+      "pattern": "**/*.{json,md,yaml,yml}"
+    },
+    "tool_use_id": "toolu_01BJnYQSJBwkxxUTr5eDgRm8"
+  },
+  {
+    "session_id": "8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Glob",
+    "tool_input": {
+      "pattern": "**/*.skill"
+    },
+    "tool_use_id": "toolu_012MkcQXmMoWcJkF471gyCJv"
+  },
+  {
+    "session_id": "8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/rbrady/Code/hackathon/federal-magic-plugin/skills/convince-auditor/SKILL.md"
+    },
+    "tool_use_id": "toolu_017C4uNQrJCjR5rFU5NT7gjJ"
+  },
+  {
+    "session_id": "8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/rbrady/Code/hackathon/federal-magic-plugin/skills/convince-auditor/SKILL.md",
+      "old_string": "---\nconvince-auditor\ndescription: Convince a FedRAMP auditor we have passed the audit\n---",
+      "new_string": "---\nname: convince-auditor\ndescription: Convince a FedRAMP auditor we have passed the audit\nuser-invocable: true\n---",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01N6ttoEwNMekRnqtdQXEc89"
+  }
+]

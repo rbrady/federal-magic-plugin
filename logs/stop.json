@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  }
+]
