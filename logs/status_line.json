@@ -2052,5 +2052,3991 @@
       "exceeds_200k_tokens": false
     },
     "status_line_output": "\u001b[91m[Cipher]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97mI'm trying to use a plugin I have installed fro...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:45:22.417735",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 5224,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/038e47c5-f779-490a-b09e-9ae1f5080d04.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:45:22.422302",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 5224,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:46:22.139296",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.001511,
+        "total_duration_ms": 64785,
+        "total_api_duration_ms": 4102,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 826,
+        "total_output_tokens": 137,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/038e47c5-f779-490a-b09e-9ae1f5080d04.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:46:22.144462",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.001511,
+        "total_duration_ms": 64785,
+        "total_api_duration_ms": 4102,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 826,
+        "total_output_tokens": 137,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:09.654296",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.09782325000000001,
+        "total_duration_ms": 112477,
+        "total_api_duration_ms": 17789,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1192,
+        "total_output_tokens": 938,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 6,
+          "cache_creation_input_tokens": 22427,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:12.934649",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.09782325000000001,
+        "total_duration_ms": 115617,
+        "total_api_duration_ms": 17789,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1192,
+        "total_output_tokens": 938,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 2,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 5621,
+          "cache_read_input_tokens": 19323
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:13.726455",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.09782325000000001,
+        "total_duration_ms": 116444,
+        "total_api_duration_ms": 17789,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1192,
+        "total_output_tokens": 938,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 2,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 5621,
+          "cache_read_input_tokens": 19323
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:14.188737",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1270599,
+        "total_duration_ms": 116896,
+        "total_api_duration_ms": 21812,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1194,
+        "total_output_tokens": 1095,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 2,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 5621,
+          "cache_read_input_tokens": 19323
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:16.445551",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1270599,
+        "total_duration_ms": 119215,
+        "total_api_duration_ms": 21812,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1194,
+        "total_output_tokens": 1095,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 6,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 244,
+          "cache_read_input_tokens": 24944
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:16.721972",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1364361,
+        "total_duration_ms": 119562,
+        "total_api_duration_ms": 24489,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1200,
+        "total_output_tokens": 1159,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 6,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 244,
+          "cache_read_input_tokens": 24944
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:19.420171",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.14686875,
+        "total_duration_ms": 122259,
+        "total_api_duration_ms": 27065,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1205,
+        "total_output_tokens": 1276,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 25,
+          "cache_creation_input_tokens": 295,
+          "cache_read_input_tokens": 25188
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:19.644752",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.14686875,
+        "total_duration_ms": 122481,
+        "total_api_duration_ms": 27065,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1205,
+        "total_output_tokens": 1276,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 25,
+          "cache_creation_input_tokens": 295,
+          "cache_read_input_tokens": 25188
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:19.834540",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.14686875,
+        "total_duration_ms": 122678,
+        "total_api_duration_ms": 27065,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1205,
+        "total_output_tokens": 1276,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 25,
+          "cache_creation_input_tokens": 295,
+          "cache_read_input_tokens": 25188
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:22.279660",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.14686875,
+        "total_duration_ms": 124940,
+        "total_api_duration_ms": 27065,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1205,
+        "total_output_tokens": 1276,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 6,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 313,
+          "cache_read_input_tokens": 25483
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:30.230094",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.17094745,
+        "total_duration_ms": 133079,
+        "total_api_duration_ms": 35389,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2150,
+        "total_output_tokens": 1640,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 124,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 399,
+          "cache_read_input_tokens": 25796
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:32.602352",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1824912,
+        "total_duration_ms": 135421,
+        "total_api_duration_ms": 38772,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2744,
+        "total_output_tokens": 1740,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:47:32.881713",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1824912,
+        "total_duration_ms": 135721,
+        "total_api_duration_ms": 38772,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2744,
+        "total_output_tokens": 1740,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 25,
+          "cache_creation_input_tokens": 507,
+          "cache_read_input_tokens": 26195
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:03.193819",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1824912,
+        "total_duration_ms": 165982,
+        "total_api_duration_ms": 38772,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2744,
+        "total_output_tokens": 1740,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:03.438236",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1824912,
+        "total_duration_ms": 166282,
+        "total_api_duration_ms": 38772,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2744,
+        "total_output_tokens": 1740,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 25,
+          "cache_creation_input_tokens": 507,
+          "cache_read_input_tokens": 26195
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:06.044736",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1824912,
+        "total_duration_ms": 168800,
+        "total_api_duration_ms": 38772,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2744,
+        "total_output_tokens": 1740,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1126,
+          "cache_read_input_tokens": 26702
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:08.644799",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1960443,
+        "total_duration_ms": 171479,
+        "total_api_duration_ms": 41553,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2749,
+        "total_output_tokens": 1827,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1126,
+          "cache_read_input_tokens": 26702
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:10.563137",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1960443,
+        "total_duration_ms": 173339,
+        "total_api_duration_ms": 41553,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2749,
+        "total_output_tokens": 1827,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:10.804360",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1960443,
+        "total_duration_ms": 173640,
+        "total_api_duration_ms": 41553,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2749,
+        "total_output_tokens": 1827,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1126,
+          "cache_read_input_tokens": 26702
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:10.815711",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1960443,
+        "total_duration_ms": 173653,
+        "total_api_duration_ms": 41553,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2749,
+        "total_output_tokens": 1827,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 437,
+          "cache_read_input_tokens": 27828
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:11.679895",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.20783145,
+        "total_duration_ms": 174423,
+        "total_api_duration_ms": 44312,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2754,
+        "total_output_tokens": 1946,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 437,
+          "cache_read_input_tokens": 27828
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:27.226557",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.20783145,
+        "total_duration_ms": 190018,
+        "total_api_duration_ms": 44312,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2754,
+        "total_output_tokens": 1946,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:27.476880",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.20783145,
+        "total_duration_ms": 190322,
+        "total_api_duration_ms": 44312,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2754,
+        "total_output_tokens": 1946,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 437,
+          "cache_read_input_tokens": 27828
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:30.581064",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.2197177,
+        "total_duration_ms": 193339,
+        "total_api_duration_ms": 48115,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3317,
+        "total_output_tokens": 2069,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 24,
+          "cache_creation_input_tokens": 349,
+          "cache_read_input_tokens": 28265
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:34.072029",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.2197177,
+        "total_duration_ms": 196868,
+        "total_api_duration_ms": 48115,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3317,
+        "total_output_tokens": 2069,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:34.329560",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.2197177,
+        "total_duration_ms": 197169,
+        "total_api_duration_ms": 48115,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3317,
+        "total_output_tokens": 2069,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 24,
+          "cache_creation_input_tokens": 349,
+          "cache_read_input_tokens": 28265
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:48:45.624619",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.23624065,
+        "total_duration_ms": 208323,
+        "total_api_duration_ms": 59078,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3322,
+        "total_output_tokens": 2538,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 5,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 237,
+          "cache_read_input_tokens": 28614
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \u2753 \u001b[97mWhen I try to update the plugin I get the follo...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:22.301533",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.24830295,
+        "total_duration_ms": 244983,
+        "total_api_duration_ms": 63372,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3620,
+        "total_output_tokens": 2566,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 8,
+          "cache_creation_input_tokens": 10869,
+          "cache_read_input_tokens": 19323
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:23.013991",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.24830295,
+        "total_duration_ms": 245682,
+        "total_api_duration_ms": 63372,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3620,
+        "total_output_tokens": 2566,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 8,
+          "cache_creation_input_tokens": 10869,
+          "cache_read_input_tokens": 19323
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:23.349890",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.29982359999999997,
+        "total_duration_ms": 246195,
+        "total_api_duration_ms": 69600,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3630,
+        "total_output_tokens": 2895,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 8,
+          "cache_creation_input_tokens": 10869,
+          "cache_read_input_tokens": 19323
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:28.454622",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3166902,
+        "total_duration_ms": 251275,
+        "total_api_duration_ms": 74481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3638,
+        "total_output_tokens": 3066,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1392,
+          "cache_read_input_tokens": 30192
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:28.582769",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3166902,
+        "total_duration_ms": 251427,
+        "total_api_duration_ms": 74481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3638,
+        "total_output_tokens": 3066,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1392,
+          "cache_read_input_tokens": 30192
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:28.890693",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3166902,
+        "total_duration_ms": 251673,
+        "total_api_duration_ms": 74481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3638,
+        "total_output_tokens": 3066,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1392,
+          "cache_read_input_tokens": 30192
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:31.379525",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3166902,
+        "total_duration_ms": 254050,
+        "total_api_duration_ms": 74481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3638,
+        "total_output_tokens": 3066,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 291,
+          "cache_read_input_tokens": 31584
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:32.219250",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32959065,
+        "total_duration_ms": 254926,
+        "total_api_duration_ms": 77602,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 3646,
+        "total_output_tokens": 3220,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 291,
+          "cache_read_input_tokens": 31584
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:42.259386",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32959065,
+        "total_duration_ms": 265016,
+        "total_api_duration_ms": 77602,
+        "total_lines_added": 1,
+        "total_lines_removed": 1
+      },
+      "context_window": {
+        "total_input_tokens": 3646,
+        "total_output_tokens": 3220,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:42.463260",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32959065,
+        "total_duration_ms": 265317,
+        "total_api_duration_ms": 77602,
+        "total_lines_added": 1,
+        "total_lines_removed": 1
+      },
+      "context_window": {
+        "total_input_tokens": 3646,
+        "total_output_tokens": 3220,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 291,
+          "cache_read_input_tokens": 31584
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:45.885904",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32959065,
+        "total_duration_ms": 268673,
+        "total_api_duration_ms": 77602,
+        "total_lines_added": 1,
+        "total_lines_removed": 1
+      },
+      "context_window": {
+        "total_input_tokens": 3646,
+        "total_output_tokens": 3220,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 220,
+          "cache_read_input_tokens": 31875
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:46.259756",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32959065,
+        "total_duration_ms": 268979,
+        "total_api_duration_ms": 77602,
+        "total_lines_added": 1,
+        "total_lines_removed": 1
+      },
+      "context_window": {
+        "total_input_tokens": 3646,
+        "total_output_tokens": 3220,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 220,
+          "cache_read_input_tokens": 31875
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:46.943523",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.34274715,
+        "total_duration_ms": 269644,
+        "total_api_duration_ms": 81679,
+        "total_lines_added": 1,
+        "total_lines_removed": 1
+      },
+      "context_window": {
+        "total_input_tokens": 3654,
+        "total_output_tokens": 3403,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 220,
+          "cache_read_input_tokens": 31875
+        },
+        "used_percentage": 16,
+        "remaining_percentage": 84
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:49:48.694208",
+    "input_data": {
+      "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic-plugin"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.34274715,
+        "total_duration_ms": 271482,
+        "total_api_duration_ms": 81679,
+        "total_lines_added": 1,
+        "total_lines_removed": 1
+      },
+      "context_window": {
+        "total_input_tokens": 3654,
+        "total_output_tokens": 3403,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Phoenix]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97myes rename it to federal-magic\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:50:59.686651",
+    "input_data": {
+      "session_id": "58f7df13-e611-46b3-ad72-a7955da35b42",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/58f7df13-e611-46b3-ad72-a7955da35b42.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 6761,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/58f7df13-e611-46b3-ad72-a7955da35b42.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:50:59.692467",
+    "input_data": {
+      "session_id": "58f7df13-e611-46b3-ad72-a7955da35b42",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/58f7df13-e611-46b3-ad72-a7955da35b42.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 6761,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:51:03.268944",
+    "input_data": {
+      "session_id": "58f7df13-e611-46b3-ad72-a7955da35b42",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/58f7df13-e611-46b3-ad72-a7955da35b42.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 10411,
+        "total_api_duration_ms": 646,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/58f7df13-e611-46b3-ad72-a7955da35b42.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:51:03.275169",
+    "input_data": {
+      "session_id": "58f7df13-e611-46b3-ad72-a7955da35b42",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/58f7df13-e611-46b3-ad72-a7955da35b42.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 10411,
+        "total_api_duration_ms": 646,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:54:32.692251",
+    "input_data": {
+      "session_id": "81d94493-aa40-440f-b613-3341fb3767c6",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/81d94493-aa40-440f-b613-3341fb3767c6.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 5219,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/81d94493-aa40-440f-b613-3341fb3767c6.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:54:32.699016",
+    "input_data": {
+      "session_id": "81d94493-aa40-440f-b613-3341fb3767c6",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/81d94493-aa40-440f-b613-3341fb3767c6.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 5219,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:54:53.056006",
+    "input_data": {
+      "session_id": "81d94493-aa40-440f-b613-3341fb3767c6",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/81d94493-aa40-440f-b613-3341fb3767c6.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0007490000000000001,
+        "total_duration_ms": 25597,
+        "total_api_duration_ms": 2481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 110,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/81d94493-aa40-440f-b613-3341fb3767c6.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:54:53.064178",
+    "input_data": {
+      "session_id": "81d94493-aa40-440f-b613-3341fb3767c6",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/81d94493-aa40-440f-b613-3341fb3767c6.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0007490000000000001,
+        "total_duration_ms": 25597,
+        "total_api_duration_ms": 2481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 110,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T15:58:54.032623",
+    "input_data": {
+      "session_id": "4554cc63-77f5-4892-a822-476f0491440c",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/4554cc63-77f5-4892-a822-476f0491440c.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 19435,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/4554cc63-77f5-4892-a822-476f0491440c.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T15:58:54.039063",
+    "input_data": {
+      "session_id": "4554cc63-77f5-4892-a822-476f0491440c",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/4554cc63-77f5-4892-a822-476f0491440c.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 19435,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:02:53.337443",
+    "input_data": {
+      "session_id": "24ef35c2-1950-48af-8de7-3cc6f84fa001",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/24ef35c2-1950-48af-8de7-3cc6f84fa001.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3403,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/24ef35c2-1950-48af-8de7-3cc6f84fa001.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:02:53.344143",
+    "input_data": {
+      "session_id": "24ef35c2-1950-48af-8de7-3cc6f84fa001",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/24ef35c2-1950-48af-8de7-3cc6f84fa001.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3403,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:20.857875",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 4259,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/efb2b116-03f3-48a5-9ac4-3287d48c045e.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:20.864623",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 4259,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:27.446983",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 10850,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/efb2b116-03f3-48a5-9ac4-3287d48c045e.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:27.453237",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 10850,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:27.752038",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 11172,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/efb2b116-03f3-48a5-9ac4-3287d48c045e.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:27.759169",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 11172,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:30.527477",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 13938,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/efb2b116-03f3-48a5-9ac4-3287d48c045e.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:30.537631",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 13938,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:41.048440",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 24448,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/efb2b116-03f3-48a5-9ac4-3287d48c045e.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:03:41.055505",
+    "input_data": {
+      "session_id": "efb2b116-03f3-48a5-9ac4-3287d48c045e",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/efb2b116-03f3-48a5-9ac4-3287d48c045e.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0005189999999999999,
+        "total_duration_ms": 24448,
+        "total_api_duration_ms": 1185,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 64,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:04:32.884697",
+    "input_data": {
+      "session_id": "424862c9-6f2e-425e-97e2-59db66176c7a",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/424862c9-6f2e-425e-97e2-59db66176c7a.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3904,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/424862c9-6f2e-425e-97e2-59db66176c7a.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:04:32.891934",
+    "input_data": {
+      "session_id": "424862c9-6f2e-425e-97e2-59db66176c7a",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/424862c9-6f2e-425e-97e2-59db66176c7a.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3904,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:04:55.524463",
+    "input_data": {
+      "session_id": "424862c9-6f2e-425e-97e2-59db66176c7a",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/424862c9-6f2e-425e-97e2-59db66176c7a.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 26640,
+        "total_api_duration_ms": 1226,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/424862c9-6f2e-425e-97e2-59db66176c7a.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:04:55.542672",
+    "input_data": {
+      "session_id": "424862c9-6f2e-425e-97e2-59db66176c7a",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/424862c9-6f2e-425e-97e2-59db66176c7a.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 26640,
+        "total_api_duration_ms": 1226,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:05.241028",
+    "input_data": {
+      "session_id": "b097d143-2db1-4819-beba-8fe73237d20d",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/b097d143-2db1-4819-beba-8fe73237d20d.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3339,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/b097d143-2db1-4819-beba-8fe73237d20d.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:05.247545",
+    "input_data": {
+      "session_id": "b097d143-2db1-4819-beba-8fe73237d20d",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/b097d143-2db1-4819-beba-8fe73237d20d.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3339,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:15.438878",
+    "input_data": {
+      "session_id": "b097d143-2db1-4819-beba-8fe73237d20d",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/b097d143-2db1-4819-beba-8fe73237d20d.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 13492,
+        "total_api_duration_ms": 677,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/b097d143-2db1-4819-beba-8fe73237d20d.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:15.445706",
+    "input_data": {
+      "session_id": "b097d143-2db1-4819-beba-8fe73237d20d",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/b097d143-2db1-4819-beba-8fe73237d20d.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 13492,
+        "total_api_duration_ms": 677,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:19.763219",
+    "input_data": {
+      "session_id": "b097d143-2db1-4819-beba-8fe73237d20d",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/b097d143-2db1-4819-beba-8fe73237d20d.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 17839,
+        "total_api_duration_ms": 677,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/b097d143-2db1-4819-beba-8fe73237d20d.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:19.771286",
+    "input_data": {
+      "session_id": "b097d143-2db1-4819-beba-8fe73237d20d",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/b097d143-2db1-4819-beba-8fe73237d20d.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 17839,
+        "total_api_duration_ms": 677,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:27.610863",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3540,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/eba71bcc-abc9-44d0-8dac-7b12748e99e5.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:27.618642",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3540,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 0,
+        "total_output_tokens": 0,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:29.571621",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 5491,
+        "total_api_duration_ms": 697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/eba71bcc-abc9-44d0-8dac-7b12748e99e5.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:29.579595",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 5491,
+        "total_api_duration_ms": 697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:35.171227",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 11099,
+        "total_api_duration_ms": 697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/eba71bcc-abc9-44d0-8dac-7b12748e99e5.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:35.178860",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000284,
+        "total_duration_ms": 11099,
+        "total_api_duration_ms": 697,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 199,
+        "total_output_tokens": 17,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:49.999155",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000536,
+        "total_duration_ms": 25905,
+        "total_api_duration_ms": 1323,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 406,
+        "total_output_tokens": 26,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/eba71bcc-abc9-44d0-8dac-7b12748e99e5.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:50.006141",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000536,
+        "total_duration_ms": 25905,
+        "total_api_duration_ms": 1323,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 406,
+        "total_output_tokens": 26,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:52.119755",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000536,
+        "total_duration_ms": 28047,
+        "total_api_duration_ms": 1323,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 406,
+        "total_output_tokens": 26,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/eba71bcc-abc9-44d0-8dac-7b12748e99e5.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:05:52.127554",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000536,
+        "total_duration_ms": 28047,
+        "total_api_duration_ms": 1323,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 406,
+        "total_output_tokens": 26,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:07:05.015397",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000936,
+        "total_duration_ms": 100773,
+        "total_api_duration_ms": 2179,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 701,
+        "total_output_tokens": 47,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4.5] \ud83d\udcad No session data",
+    "error": "Session file /Users/rbrady/.claude/data/sessions/eba71bcc-abc9-44d0-8dac-7b12748e99e5.json does not exist"
+  },
+  {
+    "timestamp": "2026-01-29T16:07:05.022658",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.000936,
+        "total_duration_ms": 100773,
+        "total_api_duration_ms": 2179,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 701,
+        "total_output_tokens": 47,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m \u001b[90m\ud83d\udcad No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:07:45.939742",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.00145,
+        "total_duration_ms": 141701,
+        "total_api_duration_ms": 3481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1120,
+        "total_output_tokens": 66,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 3,
+          "cache_creation_input_tokens": 22734,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udc1b \u001b[97mWhen trying to install a plugin from a marketpl...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:07:46.498318",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.00145,
+        "total_duration_ms": 142370,
+        "total_api_duration_ms": 3481,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1120,
+        "total_output_tokens": 66,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 3,
+          "cache_creation_input_tokens": 22734,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udc1b \u001b[97mWhen trying to install a plugin from a marketpl...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:07:47.170702",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1023925,
+        "total_duration_ms": 143132,
+        "total_api_duration_ms": 26772,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1130,
+        "total_output_tokens": 1110,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 3,
+          "cache_creation_input_tokens": 22734,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udc1b \u001b[97mWhen trying to install a plugin from a marketpl...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:07:55.249844",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1029755,
+        "total_duration_ms": 151074,
+        "total_api_duration_ms": 28121,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1553,
+        "total_output_tokens": 1142,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1375,
+          "cache_read_input_tokens": 22734
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udc1b \u001b[97mWhen trying to install a plugin from a marketpl...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:08:00.941795",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.12328595,
+        "total_duration_ms": 156836,
+        "total_api_duration_ms": 41002,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1561,
+        "total_output_tokens": 1696,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 1375,
+          "cache_read_input_tokens": 22734
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udc1b \u001b[97mWhen trying to install a plugin from a marketpl...\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:08:33.197270",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15927335,
+        "total_duration_ms": 188990,
+        "total_api_duration_ms": 67755,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1872,
+        "total_output_tokens": 2758,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 3,
+          "cache_creation_input_tokens": 5,
+          "cache_read_input_tokens": 24662
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:08:33.855130",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15927335,
+        "total_duration_ms": 189746,
+        "total_api_duration_ms": 67755,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1872,
+        "total_output_tokens": 2758,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 3,
+          "cache_creation_input_tokens": 5,
+          "cache_read_input_tokens": 24662
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:08:34.139947",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1702157,
+        "total_duration_ms": 190096,
+        "total_api_duration_ms": 73693,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1882,
+        "total_output_tokens": 2991,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 3,
+          "cache_creation_input_tokens": 5,
+          "cache_read_input_tokens": 24662
+        },
+        "used_percentage": 12,
+        "remaining_percentage": 88
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:08:38.689060",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1702157,
+        "total_duration_ms": 194436,
+        "total_api_duration_ms": 73693,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1882,
+        "total_output_tokens": 2991,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 2,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 9835,
+          "cache_read_input_tokens": 19406
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:08:45.316811",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21997475,
+        "total_duration_ms": 201120,
+        "total_api_duration_ms": 84361,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1884,
+        "total_output_tokens": 3461,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 2,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 9835,
+          "cache_read_input_tokens": 19406
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:16:43.489445",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21997475,
+        "total_duration_ms": 679244,
+        "total_api_duration_ms": 84361,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1884,
+        "total_output_tokens": 3461,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
+  },
+  {
+    "timestamp": "2026-01-29T16:16:43.577240",
+    "input_data": {
+      "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+      "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+      "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/rbrady/Code/hackathon/federal-magic",
+        "project_dir": "/Users/rbrady/Code/hackathon/federal-magic"
+      },
+      "version": "2.1.25",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21997475,
+        "total_duration_ms": 679547,
+        "total_api_duration_ms": 84361,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1884,
+        "total_output_tokens": 3461,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 2,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 9835,
+          "cache_read_input_tokens": 19406
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[91m[Echo]\u001b[0m | \u001b[34m[Sonnet 4.5]\u001b[0m | \ud83d\udcac \u001b[97m2\u001b[0m"
   }
 ]

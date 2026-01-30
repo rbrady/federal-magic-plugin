@@ -6,5 +6,37 @@
     "permission_mode": "default",
     "hook_event_name": "UserPromptSubmit",
     "prompt": "I'm trying to use a plugin I have installed from my marketplace.  I can see it in my installed plugins, and though it has a single skill, it's not something I'm able to call with \"/convince-auditor\" or \"federal-magic:convince-auditor\""
+  },
+  {
+    "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "When I try to update the plugin I get the following error.  Do I need to make sure there are matching names between marketplace.json and plugin.json?\n\n \u276f Update now\n   Uninstall\n   Back to plugin list\n\n Failed to update: Plugin \"federal-magic\" not found"
+  },
+  {
+    "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "yes rename it to federal-magic"
+  },
+  {
+    "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "When trying to install a plugin from a marketplace, I'm having an error: \n\nPlugins  Discover   Installed   Marketplaces  (\u2190/\u2192 or tab to cycle)\n\n Install Plugins\n\n \u276f \u2714 federal-magic-plugin (installed) \u00b7 0 installs\n     Federal Platform engineering tools\n\n   \u25ef platform-jsonnet \u00b7 0 installs\n     A plugin for working with Jsonnet\n\n   \u2714 platform-terraform (installed) \u00b7 0 installs\n     A plugin for working with Terraform"
+  },
+  {
+    "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "2"
   }
 ]

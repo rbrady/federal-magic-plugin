@@ -1,2 +1,2 @@
-# federal-magic-plugin
+# federal-magic
 demo claude plugin for hackathon

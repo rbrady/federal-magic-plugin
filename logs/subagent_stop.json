@@ -8,5 +8,15 @@
     "stop_hook_active": false,
     "agent_id": "a46366b",
     "agent_transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/8e2ff135-3eeb-44ea-bed9-a6b3f49ab8e3/subagents/agent-a46366b.jsonl"
+  },
+  {
+    "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "abb1b28",
+    "agent_transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04/subagents/agent-abb1b28.jsonl"
   }
 ]

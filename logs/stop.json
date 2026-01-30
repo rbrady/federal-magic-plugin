@@ -6,5 +6,21 @@
     "permission_mode": "default",
     "hook_event_name": "Stop",
     "stop_hook_active": false
+  },
+  {
+    "session_id": "038e47c5-f779-490a-b09e-9ae1f5080d04",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic-plugin/038e47c5-f779-490a-b09e-9ae1f5080d04.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic-plugin",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "eba71bcc-abc9-44d0-8dac-7b12748e99e5",
+    "transcript_path": "/Users/rbrady/.claude/projects/-Users-rbrady-Code-hackathon-federal-magic/eba71bcc-abc9-44d0-8dac-7b12748e99e5.jsonl",
+    "cwd": "/Users/rbrady/Code/hackathon/federal-magic",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
   }
 ]
